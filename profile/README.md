@@ -1,6 +1,9 @@
-# Chain-Carriers
-Welcome to Chain-Carriers, an exciting TurboWarp game developed by Thebloxers998. This project is in development and welcomes contributions from the community!
+# Chain Carriers 
+Welcome to **Chain Carriers**,
+Chain Carriers is a 4 player online game that is in **development** 🔧🔨
 
-# Introduction
-**Chain-Carriers** is a 4 player multiplayer game. 
-The goal of the game is to drag a heavy box to next level. It offers engaging gameplay, creative challenges, and fun for players of all ages.
+# Instructions
+1. Go to the game
+2. Get some **friends** to play with you
+3. You will see the **Heavy Box** and a **rope** attached to **you**, drag the box to the next level
+4. Then you have **achieved** the **next level**!
