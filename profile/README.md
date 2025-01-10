@@ -25,4 +25,4 @@ Chain Carriers is a cooperative multiplayer game where teamwork and strategy are
 ## Development Status
 
 Chain Carriers is currently in development. Stay tuned for updates and new features as we continue to improve the game.
-Join the discord server: https://discord.gg/W2W3FBPe
+Join the discord server: https://discord.gg/KppYFxHbQG
